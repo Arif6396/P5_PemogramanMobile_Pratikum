@@ -1,0 +1,21 @@
+D:\25.11.6396\5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.exe.config
+D:\25.11.6396\5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.exe
+D:\25.11.6396\5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.pdb
+D:\25.11.6396\5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\bin\Debug\CalculatorMachine.dll
+D:\25.11.6396\5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\bin\Debug\CalculatorMachine.pdb
+D:\25.11.6396\5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.AssemblyReference.cache
+D:\25.11.6396\5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.CoreCompileInputs.cache
+D:\25.11.6396\5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\Calculat.D6EB4408.Up2Date
+D:\25.11.6396\5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.exe
+D:\25.11.6396\5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.exe.config
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.exe
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\bin\Debug\CalculatorMachine.dll
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\bin\Debug\CalculatorMachine.pdb
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.AssemblyReference.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.exe.config
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.CoreCompileInputs.cache
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\Calculat.D6EB4408.Up2Date
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.exe
+D:\KULIAH\file semester 3\Pemograman lanjut\P5\Modul Praktikum 5\project latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.pdb
